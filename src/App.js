@@ -67,7 +67,7 @@ const App = () => {
             </table>
             {loading ? (
               <div className="has-text-centered" v-show="products.length < 1">
-                <h2 className="is-size-4 has-text-info">Loading...</h2>
+                <h2 className="is-size-4 has-text-info">Loading.....</h2>
               </div>
 
             ) : ''}
