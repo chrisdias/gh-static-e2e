@@ -48,14 +48,6 @@
         "stockUnits": 94
     },
     {
-        "name": "One smiling gnome",
-        "price": 43,
-        "brand": {
-            "name": "Home & Pro tools"
-        },
-        "stockUnits": 45
-    },
-    {
         "name": "Two singing gnomes",
         "price": 65,
         "brand": {
