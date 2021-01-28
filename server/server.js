@@ -4,6 +4,8 @@ const products = require("./products.json");
 const app = express();
 
 app.use('/GetProducts', function(req, res, next) {
+  //test
+
   res.send(products);
 })
 
