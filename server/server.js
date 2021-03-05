@@ -5,7 +5,7 @@ const app = express();
 
 app.use('/GetProducts', function(req, res, next) {
   res.send(products);
-  // test
+  // blah blah
 })
 
 app.listen(3005, function() {
