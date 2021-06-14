@@ -12,6 +12,7 @@ const App = () => {
     }
 
     // comments
+    // another comment
     
     getProducts();
 
